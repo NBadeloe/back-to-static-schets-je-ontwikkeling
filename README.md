@@ -7,7 +7,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 Ik ben eerst begonnen met het invullen van de "wat zou ik" vragen:
 
-![](vragen/jpeg)
+![](vragen.jpeg)
 
 Om mijn ontwikkelings praatplaat netjes te houden heb ik de tools, skills, soft skills en houdingen opgeschreven op papier
 
